@@ -83,21 +83,9 @@ The area of interest in the demo is the 4th district of Rabat, Morocco.
     var rappErreurs = true;
     ```
 
-## Authors
-:octocat: [sambakk](https://github.com/sambakk)
-
-Feel free to ask me questions on Google Hangouts or by Email : bakkach.abdessamad@gmail.com
-
-:octocat: [addouhouda](https://github.com/addouhouda)
-
-## Donation
-If this project helped you reduce time to develop, you can give me a cup of coffee :coffee: :heart:
-
-[![](https://img.shields.io/badge/Paypal-Donate-red.svg)](http://paypal.me/sambakk)
-
 ## License
 
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/sambakk/facade-3d-lidar-modeling/blob/master/LICENSE)    
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/sambakk/national-security-project/blob/master/LICENSE)    
 
 
 
