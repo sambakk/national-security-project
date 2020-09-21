@@ -19,7 +19,7 @@ This project consists of developing a **Geoenriched Web GIS Platform** to enhanc
 
 The area of interest in the demo is the 4th district of Rabat, Morocco.
 
-[![](demo/images/thumbnail.png)](https://player.vimeo.com/video/350945354?autoplay=true)
+[![](demo/images/thumbnail.png)](https://player.vimeo.com/video/460231506?autoplay=true)
 
 
 ## Built With
